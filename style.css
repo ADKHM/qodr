@@ -1,0 +1,24 @@
+caption{
+    background-color: aqua;
+}
+thead{
+    background-color: yellow;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    height: 200px;
+}
+.td1{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+.boyi1{
+text-align: center;
+}
+.Salary{
+    color: white;
+    text-align: center;
+    background-color: green;
+}
